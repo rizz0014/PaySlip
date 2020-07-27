@@ -1,0 +1,12 @@
+/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/obj/Debug/netcoreapp3.1/CSProjectNew.csprojAssemblyReference.cache
+/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/obj/Debug/netcoreapp3.1/CSProjectNew.AssemblyInfoInputs.cache
+/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/obj/Debug/netcoreapp3.1/CSProjectNew.AssemblyInfo.cs
+/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/obj/Debug/netcoreapp3.1/CSProjectNew.csproj.CoreCompileInputs.cache
+/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/bin/Debug/netcoreapp3.1/CSProjectNew.deps.json
+/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/bin/Debug/netcoreapp3.1/CSProjectNew.runtimeconfig.json
+/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/bin/Debug/netcoreapp3.1/CSProjectNew.runtimeconfig.dev.json
+/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/bin/Debug/netcoreapp3.1/CSProjectNew.dll
+/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/bin/Debug/netcoreapp3.1/CSProjectNew.pdb
+/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/obj/Debug/netcoreapp3.1/CSProjectNew.dll
+/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/obj/Debug/netcoreapp3.1/CSProjectNew.pdb
+/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/obj/Debug/netcoreapp3.1/CSProjectNew.genruntimeconfig.cache
