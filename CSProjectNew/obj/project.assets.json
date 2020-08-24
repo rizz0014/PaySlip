@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/CSProjectNew.csproj",
+      "projectUniqueName": "/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/PaySlip/CSProjectNew/CSProjectNew.csproj",
       "projectName": "CSProjectNew",
-      "projectPath": "/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/CSProjectNew.csproj",
+      "projectPath": "/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/PaySlip/CSProjectNew/CSProjectNew.csproj",
       "packagesPath": "/Users/guilhermecastanheira/.nuget/packages/",
-      "outputPath": "/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/CSProjectNew/obj/",
+      "outputPath": "/Users/guilhermecastanheira/OneDrive/2. EDUCAÇÃO/Cursos/Books/LearnCSharpInOneDay_Book/LearnCSharpInOneDay/CSProjectNew/PaySlip/CSProjectNew/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/guilhermecastanheira/.config/NuGet/NuGet.Config"
